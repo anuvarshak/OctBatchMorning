@@ -54,6 +54,4 @@ console.log(page.isClosed())
 //browser info
 
 //support methods
-
-
 })
